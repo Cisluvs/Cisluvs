@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Cisluvs
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Lua and C#
